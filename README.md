@@ -1,2 +1,2 @@
-# JavaScript-Algorithms-and-Data-Structures-Projects-FCC
-JavaScript Algorithms and Data Structures Projects by freeCodeCamp
+# JavaScript Algorithms and Data Structures Projects by freeCodeCamp
+
